@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MK4.RandomLadders", "MK4.RandomLadders\MK4.RandomLadders.vcxproj", "{B55D0E40-AC50-4692-ADA0-23CC2353A6AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55D0E40-AC50-4692-ADA0-23CC2353A6AC}.Debug|x64.ActiveCfg = Debug|Win32
+		{B55D0E40-AC50-4692-ADA0-23CC2353A6AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B55D0E40-AC50-4692-ADA0-23CC2353A6AC}.Debug|x86.Build.0 = Debug|Win32
+		{B55D0E40-AC50-4692-ADA0-23CC2353A6AC}.Release|x64.ActiveCfg = Release|Win32
+		{B55D0E40-AC50-4692-ADA0-23CC2353A6AC}.Release|x86.ActiveCfg = Release|Win32
+		{B55D0E40-AC50-4692-ADA0-23CC2353A6AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A82FFA-A4B7-455A-B3C9-A4238E2EF9A7}
+	EndGlobalSection
+EndGlobal
