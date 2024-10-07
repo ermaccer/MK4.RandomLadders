@@ -17,7 +17,6 @@ short characters[] = {
 	LIU_KANG,
 	SUBZERO,
 	FUJIN,
-	SHINNOK,
 	REIKO,
 	QUANCHI,
 	TANYA,
